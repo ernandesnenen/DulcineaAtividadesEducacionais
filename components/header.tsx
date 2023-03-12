@@ -1,7 +1,6 @@
 import Image from "next/image";
 import logodulcinea from '../public/logodulcinea.svg';
 
-import Link from "next/link";
 export  function Header() {
 
     return (
