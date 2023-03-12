@@ -1,4 +1,4 @@
-import { Header, Menu } from "@/components/header"
+import { Header } from "@/components/header"
 
 
 
