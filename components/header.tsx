@@ -5,7 +5,7 @@ export  function Header() {
 
     return (
       <main className="flex justify-center items-center bg-slate-300 h-24 " >
-        <div className="flex  justify-center items-center w-80 h-full" >
+        <div className="flex  justify-center items-center w-80 lg:w-full h-full" >
            <Image
             src={logodulcinea}
             alt='logo da escola'
