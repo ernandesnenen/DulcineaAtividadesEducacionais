@@ -5,7 +5,7 @@ export  function Content() {
 
     return (
       <main className=" w-full h-full ">
-        <div className="grid grid-cols-2 gap-4 w-3/4 mx-auto h-full py-20">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 w-3/4 mx-auto h-full  py-10 lg:py-20">
           <div className="
            w-full
             border-2

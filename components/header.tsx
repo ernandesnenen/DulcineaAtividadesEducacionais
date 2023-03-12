@@ -4,8 +4,8 @@ import logodulcinea from '../public/logodulcinea.svg';
 export  function Header() {
 
     return (
-      <main className="flex justify-center bg-slate-300 h-24 " >
-        <div className="flex items-center" >
+      <main className="flex justify-center items-center bg-slate-300 h-24 " >
+        <div className="flex  justify-center items-center w-80 h-full" >
            <Image
             src={logodulcinea}
             alt='logo da escola'
