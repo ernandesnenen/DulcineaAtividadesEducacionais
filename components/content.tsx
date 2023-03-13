@@ -19,6 +19,19 @@ export  function Content() {
               </Link>
           </div>
 
+          <div className="
+           w-full
+            border-2
+            rounded-lg
+           border-slate-300
+           shadow-lg
+           p-4">
+              <Link href={"https://scratch.mit.edu/projects/818663152"}>
+                <p className="font-bold py-2">Família do B</p>
+                <p className="py-2">Esta atividade tem com objetivo forma palavras usando a família do B, "ba, be, bi, bo, bu". </p>
+              </Link>
+          </div>
+
           
          
         </div>
