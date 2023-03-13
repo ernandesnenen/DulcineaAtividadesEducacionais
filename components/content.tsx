@@ -15,7 +15,7 @@ export  function Content() {
            p-4">
               <Link href={"https://scratch.mit.edu/projects/817762618"}>
                 <p className="font-bold py-2">Foguete</p>
-                <p className="py-2">Esta atividade tem com objetivo fazer o aluno indentificar o fogute e os estágios de lançamento. </p>
+                <p className="py-2">Esta atividade tem com objetivo fazer o aluno identificar o fogute e os estágios de lançamento. </p>
               </Link>
           </div>
 
