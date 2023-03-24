@@ -6,8 +6,7 @@ export  function Banner() {
 
     return (
       <main  className="flex
-        lg:justify-start
-        lg:items-start
+       
         justify-center
         items-center
          bg-bannerImg
@@ -15,20 +14,32 @@ export  function Banner() {
          h-72
          lg:h-96 w-full">
          <div>
-          <p className="
-            leading-[2rem]
-            lg:leading-[4rem]
-            text-center
-            lg:text-left
-            drop-shadow-lg
-            text-slate-100
+          <div>
+            <h1 className="
             text-xl
-            lg:text-5xl
+            sm:text-2xl
+            md:text-5xl
+
+          text-slate-100
+            text-center drop-shadow-[0px_1px_2px_#00180c]
             font-bold
-            pt-6 pl-4
-            lg:pt-12 lg:pl-8"
-            >
-              Aqui você encontrará atividades para<br/> utilizar em sala de aula</p>
+            ">Dulcinea Atividades Educacionais</h1>
+
+            <p className="
+              text-center              
+              drop-shadow-[0px_1px_2px_#00180c]
+              text-slate-100
+              text-sm
+              sm:text-xl
+              md:text-2xl
+              p-2
+              mt-1
+              sm: mt-4
+              md: mt-6
+             "
+              >
+                Aqui você encontrará atividades para utilizar em sala de aula</p>
+            </div>
         </div> 
        
       </main>

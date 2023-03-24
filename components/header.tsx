@@ -12,7 +12,7 @@ export  function Header() {
              width={100}
              height={100}
              />
-             <p className="text-xl  font-bold pl-2">Dulcinea Atividades Educacionais</p>
+             <p className=" text-md sm:text-xl lg:text-4xl font-bold pl-2">E.E.F Dulcinea Gomes Diniz</p>
          </div>  
       </main>
     )
