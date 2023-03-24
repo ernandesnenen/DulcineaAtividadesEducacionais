@@ -32,6 +32,19 @@ export  function Content() {
               </Link>
           </div>
 
+          <div className="
+           w-full
+            border-2
+            rounded-lg
+           border-slate-300
+           shadow-lg
+           p-4">
+              <Link href={"https://scratch.mit.edu/projects/825172665"}>
+                <p className="font-bold py-2">J ou G</p>
+                <p className="py-2">Esta atividade tem com objetivo dizer se a palavra é com J ou G. </p>
+              </Link>
+          </div>
+
           
          
         </div>
