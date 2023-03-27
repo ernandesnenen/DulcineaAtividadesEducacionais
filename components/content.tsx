@@ -52,7 +52,7 @@ export  function Content() {
            border-slate-300
            shadow-lg
            p-4">
-              <Link href={"https://scratch.mit.edu/projects/818663152"} target="_blank">
+              <Link href={"https://scratch.mit.edu/projects/826750727"} target="_blank">
                 <p className="font-bold py-2">Somar</p>
                 <p className="py-2">Esta atividade tem com objetivo somar números aleatórios. </p>
               </Link>
